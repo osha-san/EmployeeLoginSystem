@@ -48,20 +48,20 @@ A  Windows Forms application built with VB.NET and MySQL that demonstrates secur
 
 ### Login Screen
 
-![Screenshot](./assets/login.jpg).
+![Screenshot](./assets/login.JPG)
 ![Screenshot](./assets/loginSuccess.JPG)
 
 
 ### Admin Dashboard
 
-![Screenshot](./assets/adminPanel.jpg)
-![Screenshot](./assets/adminPanel1.jpg)
+![Screenshot](./assets/adminPanel.JPG)
+![Screenshot](./assets/adminPanel1.JPG)
 
 
 ### Employee Dashboard
 
-![Screenshot](./assets/employeePanel.jpg)
-![Screenshot](./assets/employeePanel1.jpg)
+![Screenshot](./assets/employeePanel.JPG)
+![Screenshot](./assets/employeePanel1.JPG)
 ```
 
 ## 🛠️ Technologies Used
