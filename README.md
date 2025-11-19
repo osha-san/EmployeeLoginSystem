@@ -48,7 +48,7 @@ A  Windows Forms application built with VB.NET and MySQL that demonstrates secur
 
 ### Login Screen
 ```
-![Screenshot](./assets/login.jpg)
+![Screenshot](./assets/login.jpg).
 ![Screenshot](./assets/loginSuccess.jpg)
 ```
 
