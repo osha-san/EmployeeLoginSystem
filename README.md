@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@osha-san](https://github.com/osha-san)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/joshua-santiago-b6670b18a/)
+- LinkedIn: [Joshua Santiago](https://linkedin.com/in/joshua-santiago-b6670b18a/)
 - Email: joshuasantiago17.22@gmail.com
 
 ## 🙏 Acknowledgments
